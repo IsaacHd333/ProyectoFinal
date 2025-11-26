@@ -77,6 +77,7 @@ async function buscarProductos() {
         //Si no, mostramos el mensaje devuelto por el servidor (p. ej., "products not found")
         //La respuesta ya viene en objeto JSON no es necesario utilizar JSON.parse
 
+        
         let salida =  `<div class="row m-5 col-12 text-center">
         
                             <div class="col-12 text-center"> 
