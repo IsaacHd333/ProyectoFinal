@@ -1,0 +1,36 @@
+.mis-cards-ajust {
+    height: 500px;
+    width: 270px;
+}
+
+.mis-buttom-ajust {
+    width: 50%;
+    font-size: 14px;
+}
+
+.mis-text-ajust {
+    margin: 15px;
+}
+
+.footers {
+    background-color: #ece5e5; /* Color solicitado */
+    padding-top: 40px;
+    padding-left: 10%;
+}
+
+.footers ul li a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.footers ul li a:hover {
+    color: green; /* Color verde solicitado */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
